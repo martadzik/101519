@@ -1,0 +1,3 @@
+function delta() {
+    print("cokolwiek")
+};
